@@ -5,8 +5,8 @@
 body{
     margin: 0;
 
-    background-color: #d8e8e8;
-    color: #1f2937;
+    background-color: #d3d3d3;
+    color: #123a63;
 
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
@@ -86,3 +86,39 @@ h1{
 .menu-link:hover{
     background-color: orangered;
 }
+
+.link{
+     padding: 8px 12px;
+    background-color: #d8e8e8;
+    color: #123a63;
+    border: 1px solid #000;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.link:hover{
+    background-color: orangered;
+}
+
+.grade-cards{
+    display: grid;
+}
+
+.card{
+    padding: 24px;
+    background-color: black;
+    border: 1px solid orangered;
+    border-radius: 10px;
+    box-shadow: 0 10px 30px rgba(20, 45, 70, 0.08);
+    color: #d8e8e8;
+}
+
+.card  h2, h3{
+    color: orangered;
+     text-shadow: 0 5px 15px orangered;
+}
+
+.secao h2{
+    color: orangered;
+}
+
