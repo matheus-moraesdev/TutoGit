@@ -122,3 +122,38 @@ h1{
     color: orangered;
 }
 
+.tabela-comandos{
+    width: 100%;
+    border: 5px solid orangered;
+
+    border-collapse: collapse;
+    background-color:black;
+    color: #d8e8e8;
+}
+
+.tabela-comandos caption{
+    margin-bottom: 10px;
+    font-weight: bold;
+    text-align: left;
+}
+
+.tabela-comandos th,
+.tabela-comandos td{
+     border: 1px solid white;
+    padding: 6px;
+    text-align: left;
+}
+
+.tabela-comandos caption{
+    color: #123a63;
+}
+
+.tabela-comandos thead{
+    color: orangered;
+    text-shadow: 0 5px 15px orangered;
+}
+
+.secao p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
