@@ -33,7 +33,6 @@ h1{
 .cabecalho{
     background-color: black;
     color:orangered;
-
     padding: 30px 0;
 }
 
@@ -80,6 +79,7 @@ h1{
 }   
 
 .cabecalho h1{
+    
     text-shadow: 0 5px 15px orangered;
 }
 

@@ -18,3 +18,38 @@
     font-size: x-large;
     font-style: italic;
 }
+
+.pinguim{
+    width: 15%;
+    float: left;
+    margin-top: -150px;
+    
+}
+
+.titulo-linus{
+    margin-left: 315px;
+    text-shadow: 0 5px 15px orangered;
+}
+
+.subtitulo-linus{
+    margin-left: 220px;
+}
+
+.menu-principal-linus{
+     margin: 20px 0 0;
+    padding: 0;
+
+    list-style: none;
+    margin-left: 295px;
+}
+
+.menu-principal-linus li{
+    display: inline-block;
+
+    margin-right: 8px;
+    margin-bottom: 8px;
+}
+
+.etiqueta-linus{
+    margin-left: 200px;
+}
